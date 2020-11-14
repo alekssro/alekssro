@@ -30,20 +30,20 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" height="52px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />][pythonbestpractices]
-[<img align="left" alt="Tensorflow" height="52px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />][tensorflow]
-[<img align="left" alt="Fastai" height="52px" src="https://www.fast.ai/images/Fast.ai.png" />][fastai]
-[<img align="left" alt="PyTorch" height="52px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" />][pytorch]
-[<img align="left" alt="R" height="52px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" />][rlang]
-[<img align="left" alt="docker" height="52px" src="https://raw.githubusercontent.com/docker-library/docs/c350af05d3fac7b5c3f6327ac82fe4d990d8729c/docker/logo.png" />][docker]
-[<img align="left" alt="conda" height="52px" src="https://avatars0.githubusercontent.com/u/6392739?s=400&v=4" />][conda]
-[<img align="left" alt="MongoDB" height="52px" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png" />][mongodb]
-[<img align="left" alt="Visual Studio Code" height="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-<img align="left" alt="Linux" height="52px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg/1200px-Linux_Logo_in_Linux_Libertine_Font.svg.png" />
-<img align="left" alt="Git" height="52px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
-<img align="left" alt="GitHub" height="52px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="GitLab" height="52px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/GitLab_Logo.svg/1200px-GitLab_Logo.svg.png" />
-<img align="left" alt="Terminal" height="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+[<img align="left" alt="Python" height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />][pythonbestpractices]
+[<img align="left" alt="Tensorflow" height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />][tensorflow]
+[<img align="left" alt="Fastai" height="32px" src="https://www.fast.ai/images/Fast.ai.png" />][fastai]
+[<img align="left" alt="PyTorch" height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" />][pytorch]
+[<img align="left" alt="R" height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" />][rlang]
+[<img align="left" alt="docker" height="32px" src="https://raw.githubusercontent.com/docker-library/docs/c350af05d3fac7b5c3f6327ac82fe4d990d8729c/docker/logo.png" />][docker]
+[<img align="left" alt="conda" height="32px" src="https://avatars0.githubusercontent.com/u/6392739?s=400&v=4" />][conda]
+[<img align="left" alt="MongoDB" height="32px" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png" />][mongodb]
+[<img align="left" alt="Visual Studio Code" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+<img align="left" alt="Linux" height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg/1200px-Linux_Logo_in_Linux_Libertine_Font.svg.png" />
+<img align="left" alt="Git" height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
+<img align="left" alt="GitHub" height="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitLab" height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/GitLab_Logo.svg/1200px-GitLab_Logo.svg.png" />
+<img align="left" alt="Terminal" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
 
@@ -57,6 +57,7 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="alekssro Spotify Now Playing" width="350" />](https://open.spotify.com/user/alekssro) -->
 
+<br />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
