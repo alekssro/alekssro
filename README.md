@@ -63,8 +63,8 @@
   <summary>:zap: GitHub Stats</summary>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alekssro&show_icons=true&hide_border=true&theme=dracula"/>
-    <img align="center" alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekssro&hide=html&langs_count=9&hide_border=true&layout=compact&theme=dracula">
+    <img align="center" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alekssro&show_icons=true&hide_border=true&theme=dark"/>
+    <img align="center" alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekssro&hide=html&langs_count=9&hide_border=true&layout=compact&theme=dark">
   </a>
 
 </details>
