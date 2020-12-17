@@ -62,8 +62,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alekssro&show_icons=true&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekssro&layout=compact&theme=vue">
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alekssro&show_icons=true&hide_border=true&theme=dracula"/>
+  <img align="center" alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekssro&hide=javascript,html&layout=compact&theme=dracula">
 
 </details>
 
