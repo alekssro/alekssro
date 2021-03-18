@@ -12,8 +12,8 @@
 
 ### What's Next?
 
-- Finish 2020
-- Learn Go
+- Finish 2021
+- First own project with Go
 - Initiate to cybersecurity
 - Contribute to 3 Open Source projects
 - Keep on going with personal project
