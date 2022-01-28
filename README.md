@@ -71,6 +71,9 @@ Previously working as ML Engineer mostly focused on Operations for Computer Visi
 ## :zap: Stats
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <img alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alekssro&show_icons=true&hide_border=true&theme=dracula"/>
