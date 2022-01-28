@@ -1,0 +1,29 @@
+name: Update README workflow
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs every hour
+    - cron: "0 * * * *"
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "4"
+          feed_list: "https://dev.to/feed/alekssro"
+          commit_message: "bot: Update README with latest blog posts"
+
+  update-readme-with-stats:
+    name: Update this repo's README with latest wakatime stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          SHOW_TIME: false
+          COMMIT_MESSAGE: "bot: Update README with latest wakatime stats"
