@@ -76,4 +76,4 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-<img alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alekssro&show_icons=true&hide_border=true&theme=dracula"/>
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alekssro&show_icons=true&hide_border=true&theme=dracula"/>
