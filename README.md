@@ -1,6 +1,8 @@
 <div id="header" align="center">
-  <img src="https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortWaved&accessoriesType=Prescription02&hairColor=Black&facialHairType=BeardLight&facialHairColor=Black&clotheType=Hoodie&clotheColor=Blue03&eyeType=Squint&eyebrowType=Default&mouthType=Default&skinColor=Light" width="100"/>
+  <img src="assets/avatar.png" width="150"/>
 </div>
+
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/alekssro/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -41,7 +43,7 @@ Previously working as ML Engineer mostly focused on Operations for Computer Visi
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
   <img src="https://cncf-branding.netlify.app/img/projects/argo/icon/color/argo-icon-color.png" title="ArgoCD" alt="ArgoCD" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/aws/karpenter/b6145a7337fc154163ed08e567891eadaf7e1e0c/website/assets/icons/logo.svg" title="Karpenter" alt="Karpenter" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/aws/karpenter/7dfcd6e49c979f5c3518e351dcfbc1ddfa49f735/website/static/favicon.svg" title="Karpenter" alt="Karpenter" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="nginx" alt="nginx" width="40" height="40"/>&nbsp; -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -58,7 +60,7 @@ Previously working as ML Engineer mostly focused on Operations for Computer Visi
 </div>
 
 
-## :writing_hand: Blog Posts :
+## :writing_hand: Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Cutting RDS costs in half](https://dev.to/alekssro/cutting-rds-costs-in-half-4bk8)
@@ -66,17 +68,9 @@ Previously working as ML Engineer mostly focused on Operations for Computer Visi
 
 ---
 
-<br />
+## :zap: Stats
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alekssro&show_icons=true&hide_border=true&theme=buefy"/>
-  </a>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekssro&hide=html&langs_count=9&hide_border=true&layout=compact&theme=buefy">
-  </a>
-
-</details>
+<img alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alekssro&show_icons=true&hide_border=true&theme=dracula"/>
