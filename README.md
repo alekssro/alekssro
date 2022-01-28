@@ -59,6 +59,7 @@ Previously working as ML Engineer mostly focused on Operations for Computer Visi
   
 </div>
 
+---
 
 ## :writing_hand: Blog Posts
 
@@ -66,7 +67,6 @@ Previously working as ML Engineer mostly focused on Operations for Computer Visi
 - [Cutting RDS costs in half](https://dev.to/alekssro/cutting-rds-costs-in-half-4bk8)
 <!-- BLOG-POST-LIST:END -->
 
----
 
 ## :zap: Stats
 
