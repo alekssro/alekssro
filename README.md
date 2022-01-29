@@ -72,7 +72,11 @@ Previously working as ML Engineer mostly focused on Operations for Computer Visi
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 22 January, 2022 - 28 January, 2022
+
+Markdown    ███████████████████████░░░░░░░░░░░░░░░░░░   56.10 % 
+Terraform   ██████████▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   24.87 % 
+YAML        ███████▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   18.58 % 
 ```
 <!--END_SECTION:waka-->
 
