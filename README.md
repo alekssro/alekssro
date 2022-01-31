@@ -72,7 +72,7 @@ Previously working as ML Engineer mostly focused on Operations for Computer Visi
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 January, 2022 - 29 January, 2022
+Week: 24 January, 2022 - 30 January, 2022
 
 Markdown    ███████████████████████░░░░░░░░░░░░░░░░░░   56.10 % 
 Terraform   ██████████▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   24.87 % 
