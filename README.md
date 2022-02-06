@@ -72,7 +72,7 @@ Previously working as ML Engineer mostly focused on Operations for Computer Visi
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 January, 2022 - 04 February, 2022
+Week: 30 January, 2022 - 05 February, 2022
 
 Other      ██████████████████▒░░░░░░░░░░░░░░░░░░░░░░   45.05 % 
 Markdown   ██████▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   16.40 % 
