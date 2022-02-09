@@ -72,7 +72,7 @@ Previously working as ML Engineer mostly focused on Operations for Computer Visi
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 February, 2022 - 07 February, 2022
+Week: 02 February, 2022 - 08 February, 2022
 
 YAML     ██████████████████▓░░░░░░░░░░░░░░░░░░░░░░   45.37 % 
 Other    ████████████▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░   30.10 % 
