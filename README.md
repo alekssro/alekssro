@@ -74,6 +74,8 @@ Previously working as ML Engineer mostly focused on Operations for Computer Visi
 ```text
 Week: 08 February, 2022 - 14 February, 2022
 
+Total: 1 hr 1 min
+
 YAML       ██████████████████████▒░░░░░░░░░░░░░░░░░░   54.37 % 
 Jinja2     ██████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░   33.91 % 
 Markdown   ██▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
