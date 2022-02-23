@@ -72,7 +72,11 @@ Previously working as ML Engineer mostly focused on Operations for Computer Visi
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+From: 15 February, 2022 - To: 22 February, 2022
+
+Other      ██████████████████████▒░░░░░░░░░░░░░░░░░░   54.31 % 
+Docker     ████████████▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░   30.95 % 
+Markdown   ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   14.70 % 
 ```
 <!--END_SECTION:waka-->
 
