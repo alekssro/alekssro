@@ -71,15 +71,14 @@ Previously working as ML Engineer mostly focused on Operations for Computer Visi
 ## :zap: Stats
 
 <!--START_SECTION:waka-->
-```text
-From: 19 February, 2022 - To: 26 February, 2022
 
-Terraform   █████████████████████████████▓░░░░░░░░░░░   72.13 % 
-Other       ██▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-Docker      ██▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-Smarty      ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-YAML        █▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+```text
+From: 19 February 2022 - To: 26 February 2022
+
+Terraform                    ██████████████████░░░░░░░   72.13 %
+Other                        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
 ```
+
 <!--END_SECTION:waka-->
 
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alekssro&show_icons=true&hide_title=true&hide_border=true&hide=stars&theme=dracula"/>
