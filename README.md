@@ -73,11 +73,9 @@ Previously working as ML Engineer mostly focused on Operations for Computer Visi
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 April 2022 - To: 10 April 2022
+From: 04 April 2022 - To: 11 April 2022
 
-Markdown                   ███████████████████████▒░   93.13 %
-Docker                     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
-Text                       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Markdown                   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
