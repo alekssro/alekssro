@@ -73,10 +73,10 @@ Previously working as ML Engineer mostly focused on Operations for Computer Visi
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 April 2022 - To: 18 April 2022
+From: 12 April 2022 - To: 19 April 2022
 
-Bash                         ███████████▓░░░░░░░░░░░░░   47.04 %
-Other                        ██████▒░░░░░░░░░░░░░░░░░░   24.85 %
+Bash                         ████████████░░░░░░░░░░░░░   48.31 %
+Other                        ██████░░░░░░░░░░░░░░░░░░░   24.25 %
 ```
 
 <!--END_SECTION:waka-->
