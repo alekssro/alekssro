@@ -73,7 +73,7 @@ Previously working as ML Engineer mostly focused on Operations for Computer Visi
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 April 2022 - To: 22 April 2022
+From: 16 April 2022 - To: 23 April 2022
 
 Markdown                     █████████▓░░░░░░░░░░░░░░░   38.44 %
 Bash                         █████▒░░░░░░░░░░░░░░░░░░░   20.99 %
