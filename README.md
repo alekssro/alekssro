@@ -73,11 +73,12 @@ Previously working as ML Engineer mostly focused on Operations for Computer Visi
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 April 2022 - To: 04 May 2022
+From: 28 April 2022 - To: 05 May 2022
 
-Terraform                   ██████████████████░░░░░░░   71.67 %
-HCL                         ████░░░░░░░░░░░░░░░░░░░░░   15.69 %
-Other                       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
+Terraform                   ████████████████░░░░░░░░░   63.60 %
+HCL                         █████░░░░░░░░░░░░░░░░░░░░   20.49 %
+Docker                      ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
+Other                       ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
 ```
 
 <!--END_SECTION:waka-->
