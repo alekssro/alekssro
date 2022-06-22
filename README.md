@@ -73,11 +73,11 @@ Previously working as ML Engineer mostly focused on Operations for Computer Visi
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 June 2022 - To: 21 June 2022
+From: 15 June 2022 - To: 22 June 2022
 
-YAML                    ████████████████████░░░░░   79.89 %
-Bash                    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 %
-Other                   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
+YAML                         █████████████████████████   99.57 %
+Markdown                     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Other                        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
