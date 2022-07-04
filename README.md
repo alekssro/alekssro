@@ -73,11 +73,12 @@ Previously working as ML Engineer mostly focused on Operations for Computer Visi
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 June 2022 - To: 03 July 2022
+From: 27 June 2022 - To: 04 July 2022
 
-YAML                        ███████████████████▓░░░░░   79.23 %
-Markdown                    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
-Other                       █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+YAML                         ████████████████████▒░░░░   80.71 %
+Markdown                     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
+Terraform                    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+Other                        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
 ```
 
 <!--END_SECTION:waka-->
