@@ -73,7 +73,9 @@ Previously working as ML Engineer mostly focused on Operations for Computer Visi
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 03 August 2022 - To: 10 August 2022
+
+YAML                   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
