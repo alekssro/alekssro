@@ -73,9 +73,9 @@ Previously working as ML Engineer mostly focused on Operations for Computer Visi
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 August 2022 - To: 16 August 2022
+From: 10 August 2022 - To: 17 August 2022
 
-Other                       █████████████████░░░░░░░░   68.30 %
+Other                       ████████████▓░░░░░░░░░░░░   50.51 %
 ```
 
 <!--END_SECTION:waka-->
