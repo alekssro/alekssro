@@ -73,7 +73,7 @@ Previously working as ML Engineer mostly focused on Operations for Computer Visi
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 August 2022 - To: 19 August 2022
+From: 13 August 2022 - To: 20 August 2022
 
 Terraform                   ████████████████▓░░░░░░░░   66.40 %
 Other                       ███████░░░░░░░░░░░░░░░░░░   27.71 %
