@@ -3,7 +3,7 @@
 </div> -->
 
 <h1 style="text-align:center" align="center">
-  <br>Hello, GitHub! I'm Alejandro - aka alekssro
+  <br>Hello, GitHub! I'm Alejandro - aka @alekssro
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <div id="badges" align="center">
     <br>
