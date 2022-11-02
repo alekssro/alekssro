@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="assets/avatar.png" width="150"/>
+  <img src="assets/profile.png" width="150"/>
 </div>
 
 
