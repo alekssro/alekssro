@@ -72,7 +72,7 @@ Previously working as ML Engineer mostly focused on Operations for Computer Visi
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 December 2022 - To: 30 December 2022
+From: 25 December 2022 - To: 01 January 2023
 
 Terraform                   █████████████████████▓░░░   87.28 %
 YAML                        █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
