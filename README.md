@@ -83,4 +83,6 @@ Other                        █░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alekssro&show_icons=true&hide_title=true&hide_border=true&hide=stars&theme=dracula"/>
+<!-- Not working with GitHub repos at the moment, so stats are not accurate. -->
+<!-- <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alekssro&show_icons=true&hide_title=true&hide_border=true&hide=stars&theme=dracula"/> -->
+
