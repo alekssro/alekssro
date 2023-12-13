@@ -72,13 +72,9 @@ Previously working as ML Engineer mostly focused on Operations for Computer Visi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 December 2023 - To: 10 December 2023
+From: 04 December 2023 - To: 11 December 2023
 
-Python                   ████████████████▓░░░░░░░░   66.91 %
-JSON                     ███░░░░░░░░░░░░░░░░░░░░░░   12.06 %
-Other                    ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
-SQL                      █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
-Docker                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
