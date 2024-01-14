@@ -72,7 +72,7 @@ Previously working as ML Engineer mostly focused on Operations for Computer Visi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 January 2024 - To: 12 January 2024
+From: 06 January 2024 - To: 13 January 2024
 
 Python                       ███████████░░░░░░░░░░░░░░   44.34 %
 HTML                         ███████░░░░░░░░░░░░░░░░░░   28.06 %
