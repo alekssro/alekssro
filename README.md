@@ -72,13 +72,13 @@ Previously working as ML Engineer mostly focused on Operations for Computer Visi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 February 2024 - To: 27 February 2024
+From: 21 February 2024 - To: 28 February 2024
 
-Terraform                    ████████████████░░░░░░░░░   64.27 %
-Python                       ███▓░░░░░░░░░░░░░░░░░░░░░   14.19 %
-HCL                          ███░░░░░░░░░░░░░░░░░░░░░░   11.71 %
-YAML                         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
-Docker                       ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Terraform                    ██████████▒░░░░░░░░░░░░░░   41.97 %
+Python                       █████████▓░░░░░░░░░░░░░░░   38.75 %
+HCL                          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 %
+YAML                         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+Docker                       ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 ```
 
 <!--END_SECTION:waka-->
