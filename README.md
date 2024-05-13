@@ -72,7 +72,7 @@ Previously working as ML Engineer mostly focused on Operations for Computer Visi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 May 2024 - To: 11 May 2024
+From: 05 May 2024 - To: 12 May 2024
 
 TypeScript                   ███████████▓░░░░░░░░░░░░░   47.00 %
 YAML                         ██████░░░░░░░░░░░░░░░░░░░   24.01 %
