@@ -72,13 +72,13 @@ Previously working as ML Engineer mostly focused on Operations for Computer Visi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 May 2024 - To: 15 May 2024
+From: 09 May 2024 - To: 16 May 2024
 
-Go                           ████████░░░░░░░░░░░░░░░░░   31.58 %
-TypeScript                   ███████▒░░░░░░░░░░░░░░░░░   29.69 %
-YAML                         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 %
-Docker                       █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
-JSON                         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
+Go                           ███████████████░░░░░░░░░░   59.36 %
+YAML                         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
+Docker                       ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
+Makefile                     █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
+Text                         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
 ```
 
 <!--END_SECTION:waka-->
