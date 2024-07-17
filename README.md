@@ -72,11 +72,13 @@ Previously working as ML Engineer mostly focused on Operations for Computer Visi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 July 2024 - To: 15 July 2024
+From: 09 July 2024 - To: 16 July 2024
 
-Python                     ███████████████████████▓░   94.11 %
-JSON                       █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
-Markdown                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+YAML                       ███████████████████▓░░░░░   78.41 %
+Python                     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
+Jinja2                     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
+Config                     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+Other                      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
 ```
 
 <!--END_SECTION:waka-->
