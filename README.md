@@ -72,7 +72,7 @@ Previously working as ML Engineer mostly focused on Operations for Computer Visi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 August 2024 - To: 31 August 2024
+From: 25 August 2024 - To: 01 September 2024
 
 YAML                                       ████████████████▒░░░░░░░░   65.39 %
 Nginx configuration file                   ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
