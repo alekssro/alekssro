@@ -72,9 +72,11 @@ Previously working as ML Engineer mostly focused on Operations for Computer Visi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 October 2024 - To: 20 October 2024
+From: 14 October 2024 - To: 21 October 2024
 
-No activity tracked
+Terraform                   ██████████████▒░░░░░░░░░░   57.45 %
+HCL                         █████████▒░░░░░░░░░░░░░░░   36.67 %
+Bash                        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
 ```
 
 <!--END_SECTION:waka-->
