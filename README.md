@@ -72,7 +72,7 @@ Previously working as ML Engineer mostly focused on Operations for Computer Visi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2025 - To: 17 January 2025
+From: 11 January 2025 - To: 18 January 2025
 
 Terraform                   ████████████████▓░░░░░░░░   66.49 %
 Smarty                      ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
