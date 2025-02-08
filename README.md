@@ -72,13 +72,13 @@ Previously working as ML Engineer mostly focused on Operations for Computer Visi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 January 2025 - To: 06 February 2025
+From: 31 January 2025 - To: 07 February 2025
 
-YAML                         ████████████▒░░░░░░░░░░░░   49.37 %
-Other                        █████▓░░░░░░░░░░░░░░░░░░░   22.53 %
-Terraform                    ████▒░░░░░░░░░░░░░░░░░░░░   17.89 %
-HCL                          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
-JSON                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+YAML                         ███████████▒░░░░░░░░░░░░░   45.72 %
+Other                        █████▒░░░░░░░░░░░░░░░░░░░   21.77 %
+Terraform                    █████▒░░░░░░░░░░░░░░░░░░░   21.19 %
+HCL                          ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
+JSON                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
 ```
 
 <!--END_SECTION:waka-->
