@@ -72,7 +72,7 @@ Previously working as ML Engineer mostly focused on Operations for Computer Visi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 February 2025 - To: 08 February 2025
+From: 02 February 2025 - To: 09 February 2025
 
 YAML                         ███████████▒░░░░░░░░░░░░░   45.72 %
 Other                        █████▒░░░░░░░░░░░░░░░░░░░   21.77 %
