@@ -72,11 +72,9 @@ Previously working as ML Engineer mostly focused on Operations for Computer Visi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 June 2025 - To: 19 June 2025
+From: 13 June 2025 - To: 20 June 2025
 
-Other                    ███████████░░░░░░░░░░░░░░   44.17 %
-YAML                     ████████░░░░░░░░░░░░░░░░░   32.28 %
-Docker                   ██████░░░░░░░░░░░░░░░░░░░   23.55 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
