@@ -72,9 +72,13 @@ Previously working as ML Engineer mostly focused on Operations for Computer Visi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 January 2026 - To: 04 February 2026
+From: 29 January 2026 - To: 05 February 2026
 
-No activity tracked
+Python                      ██████████░░░░░░░░░░░░░░░   40.61 %
+YAML                        █████████▒░░░░░░░░░░░░░░░   37.74 %
+Other                       ████▓░░░░░░░░░░░░░░░░░░░░   18.15 %
+Jinja2                      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+Terraform                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
