@@ -72,7 +72,7 @@ Previously working as ML Engineer mostly focused on Operations for Computer Visi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 February 2026 - To: 27 February 2026
+From: 21 February 2026 - To: 28 February 2026
 
 Terraform                          ████████████████████▓░░░░   82.61 %
 Other                              ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
