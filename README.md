@@ -72,7 +72,7 @@ Previously working as ML Engineer mostly focused on Operations for Computer Visi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 August 2026 - To: 13 August 2026
+From: 08 August 2026 - To: 15 August 2026
 
 Other                         █████████████████████████   100.00 %
 ```
