@@ -72,10 +72,10 @@ Previously working as ML Engineer mostly focused on Operations for Computer Visi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2026 - To: 16 September 2026
+From: 10 September 2026 - To: 17 September 2026
 
-YAML                          ████████████████████▓░░░░   82.91 %
-Other                         ████▒░░░░░░░░░░░░░░░░░░░░   17.09 %
+YAML                          ███████████████████▓░░░░░   78.19 %
+Other                         █████▒░░░░░░░░░░░░░░░░░░░   21.81 %
 ```
 
 <!--END_SECTION:waka-->
