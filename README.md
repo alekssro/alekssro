@@ -72,13 +72,13 @@ Previously working as ML Engineer mostly focused on Operations for Computer Visi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 October 2026 - To: 13 October 2026
+From: 07 October 2026 - To: 14 October 2026
 
-TypeScript                         ██████████░░░░░░░░░░░░░░░   40.46 %
-YAML                               ███████▓░░░░░░░░░░░░░░░░░   30.54 %
-JSON                               ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
-Other                              █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-Prisma                             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
+YAML                                █████████▓░░░░░░░░░░░░░░░   39.01 %
+TypeScript                          ███████░░░░░░░░░░░░░░░░░░   28.54 %
+JSON                                ███▓░░░░░░░░░░░░░░░░░░░░░   14.39 %
+Other                               ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
+Image (svg)                         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
 ```
 
 <!--END_SECTION:waka-->
